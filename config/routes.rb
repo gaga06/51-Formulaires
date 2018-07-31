@@ -5,6 +5,7 @@ Rails.application.routes.draw do
   get '/users/new', to: 'users#new'
   post '/users/new', to: 'users#create'
   get '/users/error', to: 'users#error'
+  post '/users/error', to: 'users#new'
   get '/users/:username', to: 'users#show'
 
 end
