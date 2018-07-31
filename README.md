@@ -1,24 +1,29 @@
-# README
+# I LOVE FORMS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Par Gaëlle Gorgori & Thomas Fernandez
 
-Things you may want to cover:
+## Consignes de l'exercice
 
-* Ruby version
+cf Cours THP <a href="https://www.thehackingproject.org/week/5/day/1"> Base de données</a>
 
-* System dependencies
+## Lien Heroku
 
-* Configuration
+Je vous invite à consulter le site sur Heroku sur le lien suivant: <a href="https://je-me-presente-je-suis-gaga.herokuapp.com/"
+>Projet "je-me-presente-je-suis-gaga"</a>
 
-* Database creation
+* Pour commencer la lecture :
+```
+$cd je_me_presente
+$bundle install
+$rails db:migrate
+$rails server
+```
 
-* Database initialization
+* Les répertoires utilisés sont les suivants:
+```
+Les Views
+Les Controllers
+Les routes
+Les models
+```
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
