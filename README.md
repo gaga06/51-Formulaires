@@ -1,4 +1,4 @@
-# I LOVE FORMS
+# BACKEND
 
 > Par Gaëlle Gorgori & Thomas Fernandez
 
@@ -8,8 +8,8 @@ cf Cours THP <a href="https://www.thehackingproject.org/week/5/day/1"> Base de d
 
 ## Lien Heroku
 
-Je vous invite à consulter le site sur Heroku sur le lien suivant: <a href="https://je-me-presente-je-suis-gaga.herokuapp.com/"
->Projet "je-me-presente-je-suis-gaga"</a>
+Je vous invite à consulter le site sur Heroku sur le lien suivant: <a href="https://backend-gaga.herokuapp.com/"
+>Projet "backend"</a>
 
 * Pour commencer la lecture :
 ```
